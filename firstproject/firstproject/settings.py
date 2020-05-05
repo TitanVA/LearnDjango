@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'firstapp',
     'testurlapp',
     'teststatic',
+    'validformapp',
 ]
 
 MIDDLEWARE = [
